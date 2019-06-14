@@ -34,12 +34,12 @@ In this video I first cover the aims of this _Intro to SPICE_ series, before att
 A Jupyter Notebook for this lesson is available, which can be used to test that your python environment is setup correctly.
 
 #### Requirements
-* Python3 (https://www.python.org/downloads/)
+* Python3 - [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 #### Further Reading
-* SPICE - https://naif.jpl.nasa.gov/naif/index.html
-* SPICEPY - https://spiceypy.readthedocs.io/en/master/
-* OpenPlanetary - http://openplanetary.org/
+* SPICE - [https://naif.jpl.nasa.gov/naif/index.html](https://naif.jpl.nasa.gov/naif/index.html)  
+* SPICEPY - [https://spiceypy.readthedocs.io/en/master/](https://spiceypy.readthedocs.io/en/master/)  
+* OpenPlanetary - [http://openplanetary.org/](http://openplanetary.org/)  
 
 #### OpenPlanetary Forum
-Feel free to ask any questions you may have about these videos in the dedicated section over on the OpenPlanetary Forum : https://forum.openplanetary.org
+Feel free to ask any questions you may have about these videos in the dedicated section over on the OpenPlanetary Forum : [https://forum.openplanetary.org](https://forum.openplanetary.org)  

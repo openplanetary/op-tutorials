@@ -16,9 +16,9 @@ A Jupyter Notebook for this lesson is available, and expands upon the examples s
 
 
 #### Further Reading
-* SPICE _Time_ tutorial - https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/15_time.pdf
-* SPICE _Frames_ tutorial - https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/17_frames_and_coordinate_systems.pdf
-* SPICE _Data/Kernels_ tutorial - https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/34_naif_server.pdf
+* SPICE _Time_ tutorial - [https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/15_time.pdf](https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/15_time.pdf)  
+* SPICE _Frames_ tutorial - [https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/17_frames_and_coordinate_systems.pdf](https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/17_frames_and_coordinate_systems.pdf)  
+* SPICE _Data/Kernels_ tutorial - [https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/34_naif_server.pdf](https://naif.jpl.nasa.gov/pub/naif/toolkit_docs/Tutorials/pdf/individual_docs/34_naif_server.pdf)  
 
 #### OpenPlanetary Forum
-Feel free to ask any questions you may have about these videos in the dedicated section over on the OpenPlanetary Forum : https://forum.openplanetary.org
+Feel free to ask any questions you may have about these videos in the dedicated section over on the OpenPlanetary Forum : [https://forum.openplanetary.org](https://forum.openplanetary.org)  
