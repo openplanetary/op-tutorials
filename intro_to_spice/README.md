@@ -2,6 +2,8 @@
 
 Open Planetary's 'Intro to SPICE' series covers the absolute basics of NASA/NAIF's SPICE Toolkit, and whilst it won't cover everything, it will give you a head start when it comes to writing your own SPICE programs.
 
+The files in this repo accompany the video series found here : [Intro to SPICE](https://www.youtube.com/playlist?list=PLz1ZcyhSME9_BiSm1s3HIQHDjA2oy5X-9)
+
 Additional Jupyter Notebooks can be found in the lesson folders contained in this repo.
 
 #### For more information on any of the topics covered
